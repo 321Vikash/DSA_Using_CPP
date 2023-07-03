@@ -8,7 +8,7 @@
                7.Search for an element
                8.Show
    IDE        :VS Code
-   */
+*/
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
